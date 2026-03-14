@@ -19,3 +19,9 @@ GND → GND
 ## Working
 The ultrasonic sensor measures the distance to an object.
 If the object is within a defined range, the LED turns ON.
+## Code
+the arduino code is available in the file
+'arduino-ultrasonic-object-detection.ino'.
+
+
+
